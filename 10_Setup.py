@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 21 23:52:54 2019
-
-@author: RV
-"""
 
 #%%
 import os
